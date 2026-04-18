@@ -86,5 +86,6 @@ Metrics used:
 # Conclusion
 This project demonstrates how classification, clustering, and association rule mining can be combined to extract meaningful insights from real-world datasets. The models provided useful predictions and revealed hidden patterns in the Titanic dataset.
 
+
 -ProjectDeliverable3.ipynb
 -README.md
